@@ -4,3 +4,6 @@ body{
   margin: 0 auto;
   max-width: 40em;
 }
+h2{
+  padding-top: 3em;
+}
