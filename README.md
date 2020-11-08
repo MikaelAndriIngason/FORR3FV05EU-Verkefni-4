@@ -12,6 +12,8 @@ Best er að láta símann liggja á sléttum flöt og snúa honum þannig... eð
 
 ***
 
-* Hér er vefsíðan: https://mikaelandriingason.github.io/FORR3FV05EU-Verkefni-4/
+* Hér er vefsíðan:  
+https://mikaelandriingason.github.io/FORR3FV05EU-Verkefni-4/
 
-* Hér er myndband af virkni og notkun: https://drive.google.com/file/d/16TBPbTtmw3NpZmWi1XddzLFXxjuZ7pjS/view?usp=sharing
+* Hér er myndband af virkni og notkun:  
+https://drive.google.com/file/d/16TBPbTtmw3NpZmWi1XddzLFXxjuZ7pjS/view?usp=sharing
